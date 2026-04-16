@@ -18,3 +18,9 @@ En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
 Otros sátelites de Jupiter son Almatea, titan y Lisitea
 
+
+[**Lysithea**](https://es.wikipedia.org/wiki/Lisitea_(sat%C3%A9lite)) (llamado también “Lisitea”) es un satélite irregular propagado de 
+Júpiter. Fue descubierto por Seth Barnes Nicholson el 6 de julio del 1938
+desde el Observatorio de Mount Wilson(Hooker Telescope de 100 pulgadas)
+,[1] y se nombró así por Lisítoe o Lisitea, hija de Océano y amante de Zeus.
+**Figura 1**.
